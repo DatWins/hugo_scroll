@@ -3,10 +3,10 @@ title: "Chess players are welcome!!"
 weight: 1
 ---
 
-# Want to improve?  
+Want to improve?  
 
-# Test your chess skills?
+Test your chess skills?
 
-# Play chess for fun and enjoyment?  
+Play chess for fun and enjoyment?  
 
-# Visit the San Marcos County Chess Club. 
+Visit the San Marcos County Chess Club. 
