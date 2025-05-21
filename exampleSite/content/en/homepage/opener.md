@@ -3,8 +3,10 @@ title: "Welcome"
 weight: 1
 ---
 
-### Are you looking to improve your chess skills? 
+### Want to improve?  
 
-### Do you want to test your skills? 
+### Test your chess skills?
+
+### Play chess for fun and enjoyment?  
 
 ### Visit the San Marcos County Chess Club. 
