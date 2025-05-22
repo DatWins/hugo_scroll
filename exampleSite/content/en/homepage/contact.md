@@ -1,9 +1,8 @@
 ---
-title: "Contact"
+title: "Video Lessons"
 weight: 4
-header_menu: false
+header_menu: True
 ---
 
-{{<contact_list>}}
 
-Let us get in touch!
+St. Louis Chess Club
